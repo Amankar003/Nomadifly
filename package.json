@@ -2,7 +2,11 @@
   "name": "nomadifly",
   "version": "1.0.0",
   "private": true,
-  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "framer-motion": "^11.11.0",
     "next": "14.2.15",
